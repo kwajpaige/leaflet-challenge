@@ -1,0 +1,10 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#mapID,
+body,
+html {
+  height: 100%;
+}
